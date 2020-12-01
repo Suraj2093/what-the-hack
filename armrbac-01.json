@@ -11,6 +11,7 @@
       "Microsoft.DocumentDb/databaseAccounts/*",
       "Microsoft.EventGrid/topics/*",
       "Microsoft.EventGrid/eventSubscriptions/*",
+      "microsoft.insights/*",
       "microsoft.insights/actiongroups/*",
       "microsoft.insights/components/*",
       "Microsoft.Logic/workflows/*",
