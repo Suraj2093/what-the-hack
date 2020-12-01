@@ -1,0 +1,20 @@
+[
+    {
+      "ResourceType": "Microsoft.Compute/virtualMachines",
+      "Parameter": [
+        {
+          "Name": "max-cpu-cores",
+          "Value": "2"
+        }
+      ]
+    },
+    {
+      "ResourceType": "Microsoft.DocumentDb/databaseAccounts",
+      "Parameter": [
+        {
+          "Name": "max-RU",
+          "Value": "10000"
+        }
+      ]
+    }
+  ]
